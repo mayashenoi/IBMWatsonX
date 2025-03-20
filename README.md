@@ -1,5 +1,5 @@
 # IBMWatsonX
-Solutions leveraging IBM Watsonx\
+Solutions leveraging IBM Watsonx
 
 **Generate RFP Response using AI**\
 [Example Python code](https://github.com/mayashenoi/IBMWatsonX/blob/main/WXResponseGenerationV7.py)\
