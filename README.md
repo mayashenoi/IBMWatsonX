@@ -8,3 +8,7 @@ Reduce manual and tedious work of responding to request for proposals by leverag
 **Create a concise 1-page market report for company of interest that summarizes the research, competitive analysis, and highlights the market opportunities.**\
 [Example Python code](https://github.com/mayashenoi/IBMWatsonX/blob/main/AgentCW.ipynb)\
 Collaborative agent systems where different roles interact to solve complex problems made using Watsonx, crewai and DuckDuckGo search
+
+**Create a concise 1-page market report for company of interest that summarizes the research, competitive analysis, and highlights the market opportunities.**\
+[Example Python code](https://github.com/mayashenoi/IBMWatsonX/blob/main/BeeAIworkflows.ipynb)\
+Multi-step workflow executed by an ai agent to solve complex problems made using IBM Watsonx, IBM BeeAI and DuckDuckGo search
