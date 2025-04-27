@@ -15,6 +15,9 @@ Multi-step workflow executed by an ai agent to solve complex problems made using
 
 **Grow rich using Agentic AI for Personal Finance**\
 Using OpenAI Agents and Function_tool\
-I haven't come across such simple way to define tools, all have easy way to invoke them; OpenAI allows, instead of calling a hosted function tool, you can write your tool right into the code.\
 [Example Python code](https://github.com/mayashenoi/IBMWatsonX/blob/main/Agentic_Personal_Finance.ipynb)
 
+**Drive superior portfolio performance and elevate wealth powered by IBM Watsonx**\
+Agentic AI based Portfolio Manager Powered by IBM Watsonx using Langgraph supervisor and agents\
+Define tools, agents, workflow, supervisor using langgraph\
+[Example Python code](https://github.com/mayashenoi/IBMWatsonX/blob/main/AgenticAIWX_WFPortfolioManager.ipynb)
